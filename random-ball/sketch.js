@@ -11,12 +11,12 @@ function setup() {
 function draw() {
   background(35);
   circle(x,y,25);
-  if(y > 399)
+  if(y > 387.5)
   y1 = random(-3,-6);
-  if(y < 25)
+  if(y < 12.5)
   y1 = y1 = random( 3, 6);
   
-  if(x > 380)
+  if(x > 387.5)
   x1 = random(-3,-6);
   if(x < 12.5)
   x1 = random(3,  6);
