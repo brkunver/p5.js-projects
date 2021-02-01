@@ -3,3 +3,4 @@
 ------------
 - ###### [Random bouncing ball](https://burakhan29.github.io/p5.js-projects/random-ball/index.html "Random bouncing ball")
 - ###### [Simple rain](https://burakhan29.github.io/p5.js-projects/its-raining/index.html "rain")
+- ###### [Circle clock](https://burakhan29.github.io/p5.js-projects/circle-clock/ "circle clock")
