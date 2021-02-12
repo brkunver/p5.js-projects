@@ -3,7 +3,8 @@
 
 
 ---
-Repository : https://github.com/brkunver/p5.js-projects
+[Repository](https://github.com/brkunver/p5.js-projects)
+
 ## Previews
 - [Moon And Earth Orbit Around Sun](https://brkunver.github.io/p5.js-projects/orbit/)
 - [Circle Clock](https://brkunver.github.io/p5.js-projects/circle-clock/)
