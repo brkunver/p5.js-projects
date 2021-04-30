@@ -6,6 +6,7 @@
 [Repository](https://github.com/brkunver/p5.js-projects)
 
 ## Previews
+- [Sinus wave visualization with slider](https://brkunver.github.io/p5.js-projects/sinus-wave/)
 - [Moon And Earth Orbit Around Sun](https://brkunver.github.io/p5.js-projects/orbit/)
 - [Circle Clock](https://brkunver.github.io/p5.js-projects/circle-clock/)
 - [Bouncing logo](https://brkunver.github.io/p5.js-projects/bouncing-logo/)
